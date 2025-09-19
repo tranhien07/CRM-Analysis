@@ -46,3 +46,5 @@ Khai thác dữ liệu => trả lời các câu hỏi => Insight
 <img src="https://github.com/user-attachments/assets/6953c301-7ea9-42f7-9b0e-3c96fc63ce0a" height="220" align="center">  
 <img src="https://github.com/user-attachments/assets/3c6dedb2-1e55-44ca-836f-f976a8dcd3fb" height="220" align="center">
 </div>
+
+Xem trực tuyến tại [SQL-Query-Test](https://1drv.ms/x/c/561512b5cabac10e/EQMrwqY9SsNIvUNGdK3Y2gwB8AvvGlJlgNBrG0LG4Zq2Pw?e=r9NKrK) hoặc tải file Excel ở trên
