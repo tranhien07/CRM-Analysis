@@ -36,13 +36,13 @@ Khai thác dữ liệu => trả lời các câu hỏi => Insight
 - Chương trình: **Platinum và Member chiếm phần lớn doanh số (84,68%)** và số mặt hàng bán ra (82,82%). Trong đó, **Platinum mang lại doanh số cao nhất (71,81%)** và số lượng mặt hàng bán ra lớn nhất (42,24%).
 - Biến thiên doanh số từ tháng 5 đến tháng 12 năm 2021 tương đồng như biến thiên doanh số của Platinum Scheme.
 
-<img height="230" align="center" src="https://github.com/user-attachments/assets/a517181a-81f6-4d74-a252-21cc39c949b0" /></br>
+<img height="220" align="center" src="https://github.com/user-attachments/assets/a517181a-81f6-4d74-a252-21cc39c949b0" /></br>
 <div align="center">  
-<img src="https://github.com/user-attachments/assets/999962ff-09a3-4b4b-9496-0947f73c6466" height="230" align="center">
-<img src="https://github.com/user-attachments/assets/3dfc3dfe-50d5-4bef-94c1-1c377e44bd91" height="230" align="center">
+<img src="https://github.com/user-attachments/assets/999962ff-09a3-4b4b-9496-0947f73c6466" height="220" align="center">
+<img src="https://github.com/user-attachments/assets/3dfc3dfe-50d5-4bef-94c1-1c377e44bd91" height="220" align="center">
 </div>
 </br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6953c301-7ea9-42f7-9b0e-3c96fc63ce0a" height="230" align="center">  
-<img src="https://github.com/user-attachments/assets/3c6dedb2-1e55-44ca-836f-f976a8dcd3fb" height="230" align="center">
+<img src="https://github.com/user-attachments/assets/6953c301-7ea9-42f7-9b0e-3c96fc63ce0a" height="220" align="center">  
+<img src="https://github.com/user-attachments/assets/3c6dedb2-1e55-44ca-836f-f976a8dcd3fb" height="220" align="center">
 </div>
