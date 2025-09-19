@@ -43,8 +43,9 @@ Khai thác dữ liệu => trả lời các câu hỏi => Insight
 </div>
 </br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6953c301-7ea9-42f7-9b0e-3c96fc63ce0a" height="220" align="center">  
-<img src="https://github.com/user-attachments/assets/3c6dedb2-1e55-44ca-836f-f976a8dcd3fb" height="220" align="center">
+<img src="https://github.com/user-attachments/assets/6953c301-7ea9-42f7-9b0e-3c96fc63ce0a" height="210" align="center">  
+<img src="https://github.com/user-attachments/assets/3c6dedb2-1e55-44ca-836f-f976a8dcd3fb" height="210" align="center">
 </div>
 
-Xem chi tiết tại [SQL-Query-Test](https://1drv.ms/x/c/561512b5cabac10e/EQMrwqY9SsNIvUNGdK3Y2gwB8AvvGlJlgNBrG0LG4Zq2Pw?e=r9NKrK) hoặc tải file Excel trong _Main Branches_
+---
+_Xem chi tiết tại [SQL-Query-Test](https://1drv.ms/x/c/561512b5cabac10e/EQMrwqY9SsNIvUNGdK3Y2gwB8AvvGlJlgNBrG0LG4Zq2Pw?e=r9NKrK) (OneDrive) hoặc tải file Excel trong "main Branches"_
