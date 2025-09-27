@@ -1,4 +1,4 @@
-# Bài tập truy vấn SQL: CRM Analysis
+# CRM Analysis
 Khai thác dữ liệu => trả lời các câu hỏi => Insight
 
 **1. Dữ liệu**
