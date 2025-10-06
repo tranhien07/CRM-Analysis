@@ -48,4 +48,4 @@ Khai thác dữ liệu => trả lời các câu hỏi => Insight
 </div>
 
 ---
-_Xem chi tiết tại [SQL-Query-Test](https://1drv.ms/x/c/561512b5cabac10e/EQMrwqY9SsNIvUNGdK3Y2gwB8AvvGlJlgNBrG0LG4Zq2Pw?e=r9NKrK) (OneDrive) hoặc tải file Excel trong "main Branches"_
+_Xem chi tiết tại [CRM-Analysis](https://1drv.ms/x/c/561512b5cabac10e/EQMrwqY9SsNIvUNGdK3Y2gwB8AvvGlJlgNBrG0LG4Zq2Pw?e=r9NKrK) (OneDrive) hoặc tải file Excel trong "main Branches"_
